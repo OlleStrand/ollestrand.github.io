@@ -147,6 +147,7 @@ h1 {
 .timeline-nav ul li.active {
   font-weight: 500;
   color: #9c27b0;
+  background: #212121;
 
   -webkit-transform: scale(1.15);
           transform: scale(1.15);
